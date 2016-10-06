@@ -62,6 +62,7 @@ Scanner lector = new Scanner (System.in);
 			}
 			
 			System.out.println("Lletra "+lletres[i]+": "+count);
+			System.out.println("Comentari.");
 			
 		}
 		
